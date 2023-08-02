@@ -1,0 +1,5 @@
+# Proyecto chat
+
+Lorem ipsum dolor sit amet consectetur adipiscing elit nam augue, laoreet felis placerat faucibus pellentesque molestie dui lacinia viverra auctor, eget curabitur nisl magnis taciti fringilla diam mauris. Dui habitasse platea posuere suscipit eget vestibulum mus praesent ornare gravida, enim lectus mollis massa ad porttitor volutpat pellentesque. Dictum vivamus nunc accumsan velit nisl fermentum eros potenti nibh, ante sociis feugiat morbi eget magna felis imperdiet, porta malesuada erat enim torquent maecenas interdum natoque.
+
+Tortor sapien nascetur vitae iaculis accumsan proin, vel cum feugiat cubilia vulputate gravida pellentesque, conubia viverra nullam sodales integer. Sed augue habitasse mi vel eleifend gravida, accumsan mus scelerisque natoque elementum, nec nostra lacus vitae imperdiet feugiat, consequat varius pellentesque penatibus. Proin viverra phasellus posuere pharetra cum fringilla eu nascetur, penatibus ornare nisl placerat orci arcu neque auctor tincidunt, dictum diam elementum praesent consequat dui ultrices.
